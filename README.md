@@ -5,10 +5,11 @@
 ## Overview
 The Water Quality Prediction project aims to predict the quality of water based on various input features. This project utilizes machine learning algorithms to analyze water quality data and provide predictions that can help in assessing the safety and suitability of water for consumption and other uses.
 
-## Table of Contents
-- [Data](#water_quality_dataset)
-- [Model](#RandomForestClassifier)
-- [License](#Apache2.0)
+## Technologies Used
+
+- **Python**: Primary programming language for data processing and modeling.
+- **Pandas & NumPy**: Data manipulation and numerical operations.
+- **scikit-learn**: Machine learning algorithms, preprocessing.
 
 ## Installation
 To run this project, you need to have Python and the required libraries installed. You can set up a virtual environment and install the dependencies using the following commands:
