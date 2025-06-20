@@ -16,7 +16,7 @@ To run this project, you need to have Python and the required libraries installe
 
 ```bash
 # Clone the repository
-git clone [https://github.com/plk456/Water_Quality_Prediction.git]
+git clone https://github.com/plk456/Water_Quality_Prediction.git
 cd Water_Quality_Prediction
 
 # Create a virtual environment
